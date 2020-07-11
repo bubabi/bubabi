@@ -1,4 +1,4 @@
-<img src="cover.gif"></img>
+<img src="https://raw.githubusercontent.com/bubabi/bubabi/master/cover.gif"></img>
 
 <!--
 

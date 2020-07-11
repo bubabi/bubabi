@@ -1,6 +1,5 @@
-### Hi there 👋
 
-**bubabi/bubabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+<img src="https://media.giphy.com/media/26h0qyie0mRMHdoWc/source.gif"></img>
 
 <!--
 

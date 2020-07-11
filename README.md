@@ -1,5 +1,4 @@
-
-<img src="https://media.giphy.com/media/26h0qyie0mRMHdoWc/source.gif"></img>
+<img src="cover.gif"></img>
 
 <!--
 

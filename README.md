@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/bubabi/bubabi/master/cover.gif"></img>
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakemreozer/) [![Mail Badge](https://img.shields.io/badge/burakemreozer@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakemreozer@gmail.com)](mailto:burakemreozer@gmail.com)
+
+![Visitor Count](https://profile-counter.glitch.me/bubabi/count.svg)
 <!--
 
 Here are some ideas to get you started:

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bubabi/bubabi/master/cover.gif"></img>
+<img src="cover.gif"></img>
 
 [![Profile views](https://gpvc.arturio.dev/bubabi)](https://github.com/bubabi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/burakemreozer?label=Follow)](https://twitter.com/burakemreozer?lang=en)

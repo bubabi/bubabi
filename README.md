@@ -1,4 +1,4 @@
-<img src="cover.gif" width="600" height="213"></img>
+<!-- <img src="cover.gif" width="600" height="213"></img> -->
 
 [![Profile views](https://gpvc.arturio.dev/bubabi)](https://github.com/bubabi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/burakemreozer?label=Follow)](https://twitter.com/burakemreozer?lang=en)
